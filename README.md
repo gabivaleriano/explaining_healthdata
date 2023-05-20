@@ -1,10 +1,10 @@
 # explaining_healthdata
 
-This repository contains four .csv files, two pdf files and one notebooks:
+This repository contains four .csv files, two .pdf files and one notebook:
 
 ## Notebook: experiments_footprints.ipynb
 
-Contains some experiments realized testing footprints generated considering diferent levels os instance hardness.
+Contains some experiments were we generate footprints considering different levels of instance hardness.
 
 ## .csv files
 Contains the data used in our work. 
